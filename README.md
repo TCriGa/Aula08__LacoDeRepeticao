@@ -1,18 +1,12 @@
-## Getting Started
+## Exercícios estruturas de repetição:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. Faça um programa que mostra os números pares até 100
 
-## Folder Structure
+2. Faça um programa que mostre a tabuada a partir da escolha do
+usuário
 
-The workspace contains two folders by default, where:
+3. Escreva um algoritmo para imprimir os 10 primeiros números inteiros
+maiores que 100
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+4. Ler um valor N e imprimir todos os valores pares entre 1 (inclusive) e
+N (inclusive). Considere que o N será sempre maior que ZERO
